@@ -1,0 +1,27 @@
+\begin{thebibliography}{999}
+
+\bibitem[Ultralytics(2024)]{YOLO11UltralyticsBenchmarking}
+Ultralytics.
+\newblock YOLO11 Models - Ultralytics Documentation,  2024.
+\newblock Zugriff am 19. März 2025.
+
+\bibitem[{Intel Corporation}(2023)]{IntelRealSenseD400}
+{Intel Corporation}.
+\newblock {\em Intel® RealSense™ Product Family D400 Series Datasheet},
+  2023.
+
+\bibitem[Winner et~al.(2021)Winner, Hakuli, Lotz, and Singer]{BuchKamera}
+Winner, H.; Hakuli, S.; Lotz, F.; Singer, C.
+\newblock Maschinelles Sehen. In {\em Handbuch Fahrerassistenzsysteme}, 3 ed.;
+  Winner, H.; Hakuli, S.; Lotz, F.; Singer, C., Eds.; Springer Vieweg:
+  Wiesbaden,  2021; chapter~21.
+
+\bibitem[Abdullah-Al-Noman et~al.(2022)Abdullah-Al-Noman, Eva, Yeahyea, and
+  Khan]{sensor}
+Abdullah-Al-Noman, M.; Eva, A.N.; Yeahyea, T.B.; Khan, R.
+\newblock Computer vision-based robotic arm for object color, shape, and size
+  detection.
+\newblock {\em Journal of Robotics and Control (JRC)} {\bf 2022}, {\em
+  3},~180--186.
+
+\end{thebibliography}
